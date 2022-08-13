@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.divCards {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.header {
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+}
+
+.buttonDiv {
+  display: flex;
+  justify-content: center;
+  padding-top: 1rem;
+}
+
+.container {
+  color: #ccc;
+}
