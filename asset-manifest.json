@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/m4desafio1/static/css/main.153c3965.css",
+    "main.js": "/m4desafio1/static/js/main.302e442e.js",
+    "static/js/787.26a4e540.chunk.js": "/m4desafio1/static/js/787.26a4e540.chunk.js",
+    "index.html": "/m4desafio1/index.html",
+    "main.153c3965.css.map": "/m4desafio1/static/css/main.153c3965.css.map",
+    "main.302e442e.js.map": "/m4desafio1/static/js/main.302e442e.js.map",
+    "787.26a4e540.chunk.js.map": "/m4desafio1/static/js/787.26a4e540.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.153c3965.css",
+    "static/js/main.302e442e.js"
+  ]
+}
